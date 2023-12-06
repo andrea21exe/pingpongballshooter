@@ -1,0 +1,3 @@
+Collegamento motori DC: https://www.tinkercad.com/things/4eYwxs3j23g-copy-of-motore-cc-e-potenziometro/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns
+
+Algoritmo di spostamento del servo tramite sensori ad ultrasuoni(distanza): https://www.tinkercad.com/things/iErL5LehEes-stunning-waasa/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns
